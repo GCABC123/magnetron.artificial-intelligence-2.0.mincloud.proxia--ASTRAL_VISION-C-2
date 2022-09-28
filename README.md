@@ -18,7 +18,7 @@
 
                      🌐 MAGENTRON ™ 🌐
                      
-🌐 ARTIFICIAL INTELLIGENCE 2.0 ™ : ASTRSAL VISION PROXIA C (POSE ESTIMATION)
+🌐 ARTIFICIAL INTELLIGENCE 2.0 ™ : ASTRSAL VISION PROXIA C-2 (POSE ESTIMATION)
 
 *️⃣📶🤖
 
@@ -45,9 +45,7 @@ DOWNLOAD WEIGHTS HERE: https://github.com/WongKinYiu/yolov7/releases/download/v0
 
 =============================================================
 
-This is a Google Colab/Jupyter Notebook for (for one possible scheme in) developing an ASTRAL VISION PROXIA for POSE ESTIMATION when working with ARTIFICIAL INTELLIGENCE 2.0 ™ 
-(ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
-developing a PROXIA.
+This is a Google Colab/Jupyter Notebook for (for one possible scheme in) developing another ASTRAL VISION PROXIA for POSE ESTIMATION when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). Multiple POSE ESTIMATION PROXIA can help reduce error. The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA.
 
 e.g On an ASTRAL MINDCLOUD the ASTRAL VISION PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT encounters an intersting video of a dancing man on the internet or it records footage of a dancing man (with its eye cameras) it can determine the boodily configuration to mimic the human.
 
@@ -65,7 +63,7 @@ Prerequisite reading:
 - ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
 
 
-- FREE HUMANOID 3D CHARACTER ANIMATIONS HERE: https://www.mixamo.com/. THERE ARE ALSO FREE 3D CHARACTER MODELS ON THIS SITE IN CASE YOU DON'T HAVE EXPERIENCE WITH THIS FINAL FILE TYPR AND WANT TO SEE WHAT THAT FINAL FILE TYPE SHOULD LOOK LIKE.
+- FREE HUMANOID 3D CHARACTER ANIMATIONS HERE: https://www.mixamo.com/. THERE ARE ALSO FREE 3D HUMANOID CHARACTER MODELS ON THIS SITE IN CASE YOU DON'T HAVE EXPERIENCE WITH THIS FINAL FILE TYPE AND WANT TO SEE WHAT THAT FINAL FILE TYPE SHOULD LOOK LIKE.
 
 e.g using this PROXIA with an IMAGINATION A PROXIA: YOU CAN RUN THE 3D HUMANOID ANIMATIONS OUTPUT BY THIS POSE ESTIMATION PROXIA (AFTER PROCESSING HUMAN POSES CAPTURED WITH THE EYE CAMERAS OR FROM ONLINE) SO THAT THE ROBOT CAN SEE HOW IT LOOKS ON A DIGITAL 3D CHARACTER FROM DIFFERENT ANGLES (WHICH IS BASICALLY AN IMAGINATION A PROXIA). FOR LOOKING AT OBJECTS FROM DIFFERENT ANGLES SEE ANY IMAGINATION (A) PROXIA.
 
@@ -86,5 +84,7 @@ You must display the included stickers/signs (so that it is clearly visible) if 
 
 🌐 NOTE: INFORMATION FROM A POSE ESTIMATION PROXIA CAN BE USED TO GENERATE A 3D HUMANOID CHARACTER ANIMATION FILE (.FBX/.OBJ FILE EXTENSION). THIS FILETYPE IS USED IN VIDEO GAME AND FILM DEVELOPMENT AND CAN BE USED IN 3D SOFTWARE SUCH AS UNITY AND UNREAL ENGINE.
 
+NOTE: MULTIPLE PROXIA DOING THE SAME THING CAN BE USED TO REDUCE ERROR.
 
 
+# DOWNLOAD YOLOv7 HERE: https://github.com/GCABC123/magnetron-yolov7
