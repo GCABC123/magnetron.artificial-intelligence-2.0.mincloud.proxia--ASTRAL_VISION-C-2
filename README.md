@@ -47,7 +47,9 @@ DOWNLOAD WEIGHTS HERE: https://github.com/WongKinYiu/yolov7/releases/download/v0
 
 This is a Google Colab/Jupyter Notebook for (for one possible scheme in) developing another ASTRAL VISION PROXIA for POSE ESTIMATION when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). Multiple POSE ESTIMATION PROXIA can help reduce error. The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA.
 
-e.g On an ASTRAL MINDCLOUD the ASTRAL VISION PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT encounters an intersting video of a dancing man on the internet or it records footage of a dancing man (with its eye cameras) it can determine the boodily configuration to mimic the human.
+e.g On an ASTRAL MINDCLOUD the ASTRAL VISION PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT encounters an intersting video of a dancing man on the internet or it records footage of a dancing man (with its eye cameras) it can determine the boodily configuration to mimic the human. 
+
+e.g The INFORMATION from this PROXIA can be used to generate 3D HUMANOID CHARACTER ANIMATION FILES (.fbx) whcich can then be placed in an ANIMATION CONTROLLER (ASTRAL BODY PROXIA) for humans to use.
 
 NOTE: DATA FROM KING CROWN TECHNOLOGY ™ ALSO AFFECTS/CONTRIBUTES TO THE OVERALL ASTRAL VISION.  KING CROWN TECHNOLOGY ™ IS NOT FOR ANALYZING DIGITAL IMAGES BUT FOR THE ANALYZING THE REAL WORLD.
 
